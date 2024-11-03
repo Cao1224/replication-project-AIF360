@@ -1,5 +1,8 @@
 # AI Fairness 360 (AIF360)
 
+## Note on Collaboration
+We all have been collaborating on the notebook through zoom calls and google collab due to being a remote team and our section mentors have approved that.
+
 [![Continuous Integration](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml/badge.svg)](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml)
 [![Documentation](https://readthedocs.org/projects/aif360/badge/?version=latest)](https://aif360.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/aif360.svg)](https://badge.fury.io/py/aif360)
