@@ -1,5 +1,9 @@
 # DSC 180A Replication Project: AI Fairness 360 (AIF360)
 
+**Section**: A10<br>
+**Section Title**: Ethical Considerations in Using Artificial Intelligence<br>
+**Mentor**: Emily Ramond and Greg Thein<br>
+
 **Team Members**:
 *   Chester (Kai) Ni
 *   Catherine Back
