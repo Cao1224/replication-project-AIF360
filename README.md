@@ -29,9 +29,16 @@ Supported Python Configurations:
 
 The project requires the **AIF360** package for fairness evaluation. Please ensure it is installed before running the notebook.
 
-### Installation Steps
 
-1. **Install AIF360**  
+1. **Clone the Repository**
+    - Clone the repository to your local machine using the following commands:
+    ```bash
+    git clone https://github.com/Cao1224/replication-project-AIF360.git
+    cd replication-project-AIF360
+    ```
+    - Open the file `replication_project.ipynb` in Jupyter or any compatible IDE.
+
+2. **Install AIF360**  
    Open your Jupyter Notebook or terminal and run the following commands:
    ```bash
    !pip install aif360
