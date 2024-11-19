@@ -25,9 +25,6 @@ Supported Python Configurations:
 | Ubuntu  | 3.8 – 3.11     |
 | Windows | 3.8 – 3.11     |
 
-### Required Libraries
-
-The project requires the **AIF360** package for fairness evaluation. Please ensure it is installed before running the notebook.
 
 1. **Clone the Repository**
     - Clone the repository to your local machine using the following commands:
@@ -38,7 +35,7 @@ The project requires the **AIF360** package for fairness evaluation. Please ensu
     - Open the file `replication_project.ipynb` in Jupyter or any compatible IDE.
 
 2. **Install AIF360**  
-   Open your Jupyter Notebook or terminal and run the following commands:
+   The project requires the **AIF360** package for fairness evaluation. Please ensure it is installed before running the notebook. Open your Jupyter Notebook or terminal and run the following commands:
    ```bash
    !pip install aif360
 
