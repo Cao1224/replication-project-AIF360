@@ -29,7 +29,6 @@ Supported Python Configurations:
 
 The project requires the **AIF360** package for fairness evaluation. Please ensure it is installed before running the notebook.
 
-
 1. **Clone the Repository**
     - Clone the repository to your local machine using the following commands:
     ```bash
